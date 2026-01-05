@@ -1,6 +1,6 @@
 
 
-# Parasol Finance Technical Overview
+# The First Community Governed IDO Platform
 
 ## Architecture & System Design
 
